@@ -12,6 +12,8 @@ metodologia de ensino de suas disciplinas precisou ser repensada. Ele entrou em 
 desenvolvessem um sistema para ajudar nessa missão. Os requisitos foram definidos com ajuda da professora da disciplina Testes de Software, e quaisquer dúvidas 
 devem ser esclarecidas por ela.
 
+## PARA MAIS INFORMAÇÕES 🧐 :
+[DESCRIÇÃO DO PROBLEMA COMPLETO](https://docs.google.com/document/d/1WCZnFEuW7HzXhjU7-qWtuQvBgcAx7-WT1hZjbdrqT4I/edit#)
 
 
 
